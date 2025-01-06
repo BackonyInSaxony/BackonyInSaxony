@@ -1,8 +1,13 @@
  I’m @BackonyInSaxony and I do random stuff from time to time. I usually do Python stuff and may do Lua and javascript stuff in the future.
+
  I’m interested in whatever I'm interested in right now.
- I’m currently learning Javascript and Lua
+
+ I’m currently learning Javascript and Lua.
+
  How to reach me ... You don't unless you know me personally :)
- Pronouns: I'm a guy so you know what to use (He/Him)
+
+ Pronouns: I'm a guy so you know what to use (He/Him).
+
  Fun fact: Even though dragonflies have six legs, they cannot walk.
 
 <!---
